@@ -3,7 +3,7 @@
 # P2P Messaging App
 (This app was made for AP Computer Science Principles Create Project.)
   
-  <img src="P2P_App.png" width="800" height="500" />
+  <img src="P2P_App.png" width="1200" height="820" />
   
   
   This app uses java's sockets to directly send strings directly from one IP address to another IP address. This app meets these AP Computer Science Principles requirements:
