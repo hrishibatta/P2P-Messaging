@@ -3,7 +3,7 @@
 # P2P Messaging App
 A java app that allows two people to communicate directly IP to IP. 
 
-<img src="gifVid.gif" width="200" height="400" />
+<img src="Recording #1.mp4" width="600" height="400" />
 
 
 ## About This Program
